@@ -1,5 +1,5 @@
 # Webentwicklung_JavaScript_ECMA_Grundkurs
-Mein unverändertes Projekt zum cimdata Webentwicklung JavaScript ECMA Grundkurs.
+Unser unverändertes Projekt zum cimdata Webentwicklung JavaScript ECMA Grundkurs.
 
 Aufgabenstellung
 ================
